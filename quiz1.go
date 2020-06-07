@@ -5,6 +5,8 @@ import (
 )
 
 func main() {
+	//
+
 	var no int
 	for {
 		fmt.Println("enter no 1-4 for country details 0 to quit")
